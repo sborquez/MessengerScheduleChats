@@ -1,0 +1,1 @@
+{"_default": {}, "contacts": {"1": {"email": "s.borquezlsf@gmail.com", "chats": []}}, "messages": {"1": {"email": "s.borquezlsf@gmail.com", "sent": [], "outbox": [{"to": "a", "content": "b", "reminder": {"date": "c", "time": "d"}}], "week": []}}}
